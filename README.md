@@ -1,6 +1,10 @@
 # Sueldo Neto
 
-App Android (Jetpack Compose) para calcular el sueldo neto en España y otras cuentas laborales.
+![Kotlin](https://img.shields.io/badge/Kotlin-2.2-7F52FF?logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4?logo=jetpackcompose&logoColor=white) ![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?logo=android&logoColor=white)
+
+Calculadora de sueldo neto, paro e indemnización por despido en España, con comparador de ofertas de trabajo.
+
+App Android nativa desarrollada en **Kotlin** con **Jetpack Compose** (Material 3).
 
 - **Nómina**: bruto anual → neto mensual, pagas extra, Seguridad Social e IRPF con el procedimiento oficial de retenciones. 12 o 14 pagas, contrato indefinido o temporal, hijos y menores de 3 años.
 - **Comparar ofertas** (Premium o 24 h con un anuncio): diferencia neta entre dos sueldos y cuánto de cada euro bruto de más te queda.
