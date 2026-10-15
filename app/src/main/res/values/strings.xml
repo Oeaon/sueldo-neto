@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sueldo Neto</string>
+    <string name="settings">Ajustes</string>
+    <string name="tab_salary">Nómina</string>
+    <string name="tab_compare">Comparar ofertas</string>
+    <string name="tab_unemployment">Paro</string>
+    <string name="tab_severance">Despido</string>
+
+    <string name="gross_annual">Sueldo bruto anual</string>
+    <string name="payments_14">14 pagas</string>
+    <string name="payments_12">12 pagas</string>
+    <string name="contract_permanent">Indefinido</string>
+    <string name="contract_temporary">Temporal</string>
+    <string name="children">Hijos a cargo</string>
+    <string name="children_under_3">De ellos, menores de 3 años</string>
+    <string name="net_monthly">Neto al mes</string>
+    <string name="net_extra_pay">Cada paga extra: %1$s</string>
+    <string name="net_annual">Neto al año</string>
+    <string name="social_security">Seguridad Social</string>
+    <string name="withholding">IRPF (%1$s)</string>
+    <string name="salary_note">Cálculo orientativo con las retenciones de %1$d para un contribuyente sin cónyuge a cargo, sin discapacidad y con los hijos compartidos con el otro progenitor. No vale para el País Vasco ni Navarra. Tu nómina puede variar según tu convenio y tu situación personal.</string>
+
+    <string name="compare_title">Compara dos ofertas</string>
+    <string name="compare_locked">Mete dos sueldos brutos y mira cuál te deja más dinero cada mes y cuánto de la subida llega a tu bolsillo.</string>
+    <string name="offer_a">Oferta A (bruto anual)</string>
+    <string name="offer_b">Oferta B (bruto anual)</string>
+    <string name="offer_a_net">Oferta A, neto al mes</string>
+    <string name="offer_b_net">Oferta B, neto al mes</string>
+    <string name="compare_difference">%1$s te deja %2$s más al mes (%3$s al año)</string>
+    <string name="compare_kept">De cada 100 € brutos de diferencia te quedan %1$d €.</string>
+
+    <string name="unemployment_base">Base de cotización media mensual</string>
+    <string name="unemployment_base_help">Es la media de los últimos 6 meses. Si no la sabes, usa tu bruto anual entre 12.</string>
+    <string name="unemployment_days">Días cotizados en los últimos 6 años</string>
+    <string name="days_suffix">días</string>
+    <string name="unemployment_no_right">Con menos de 360 días cotizados no hay paro contributivo. Puede que tengas derecho a un subsidio.</string>
+    <string name="unemployment_duration">Cobrarías %1$d días (unos %2$d meses)</string>
+    <string name="unemployment_first_180">Primeros 6 meses (70 %)</string>
+    <string name="unemployment_from_181">Del mes 7 al 12 (60 %)</string>
+    <string name="unemployment_from_361">Desde el mes 13 (50 %)</string>
+    <string name="unemployment_note">Importes brutos al mes, con los topes de 2026. Al cobrar se descuenta la cotización a la Seguridad Social y, si toca, el IRPF.</string>
+
+    <string name="start_date">Fecha de alta</string>
+    <string name="end_date">Fecha de baja</string>
+    <string name="dismissal_unfair">Despido improcedente (33 días por año)</string>
+    <string name="dismissal_objective">Despido objetivo (20 días por año)</string>
+    <string name="dismissal_temporary">Fin de contrato temporal (12 días por año)</string>
+    <string name="dismissal_none">Baja voluntaria (sin indemnización)</string>
+    <string name="vacation_days">Días de vacaciones sin disfrutar</string>
+    <string name="years_worked">Años trabajados</string>
+    <string name="compensation">Indemnización</string>
+    <string name="vacation_pay">Vacaciones pendientes</string>
+    <string name="severance_total">Total aproximado</string>
+    <string name="severance_note">Estimación bruta para contratos firmados desde el 12 de febrero de 2012. El finiquito real incluye además los días trabajados del mes y la parte de las pagas extras.</string>
+
+    <string name="premium_feature_compare">Comparador de ofertas de trabajo</string>
+    <string name="premium_settings_text">Quita los anuncios y desbloquea el comparador de ofertas.</string>
+    <string name="remove_ads">Quitar anuncios</string>
+    <string name="privacy_options">Opciones de privacidad de anuncios</string>
+    <string name="about_title">Acerca de</string>
+    <string name="about_text">Calculadoras orientativas de nómina, paro e indemnización según la normativa española. No sustituyen el asesoramiento de un profesional.</string>
+    <string name="version">Versión %1$s</string>
+</resources>

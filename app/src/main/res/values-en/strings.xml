@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sueldo Neto</string>
+    <string name="settings">Settings</string>
+    <string name="tab_salary">Payslip</string>
+    <string name="tab_compare">Compare offers</string>
+    <string name="tab_unemployment">Unemployment</string>
+    <string name="tab_severance">Dismissal</string>
+
+    <string name="gross_annual">Gross annual salary</string>
+    <string name="payments_14">14 payments</string>
+    <string name="payments_12">12 payments</string>
+    <string name="contract_permanent">Permanent</string>
+    <string name="contract_temporary">Temporary</string>
+    <string name="children">Dependent children</string>
+    <string name="children_under_3">Of them, under 3 years old</string>
+    <string name="net_monthly">Net per month</string>
+    <string name="net_extra_pay">Each extra payment: %1$s</string>
+    <string name="net_annual">Net per year</string>
+    <string name="social_security">Social Security</string>
+    <string name="withholding">Income tax (%1$s)</string>
+    <string name="salary_note">Estimate using %1$d withholding rules for a taxpayer with no dependent spouse, no disability and children shared with the other parent. Not valid for the Basque Country or Navarre. Your payslip may differ depending on your collective agreement and personal situation.</string>
+
+    <string name="compare_title">Compare two offers</string>
+    <string name="compare_locked">Enter two gross salaries and see which one leaves you more money each month and how much of the raise reaches your pocket.</string>
+    <string name="offer_a">Offer A (gross per year)</string>
+    <string name="offer_b">Offer B (gross per year)</string>
+    <string name="offer_a_net">Offer A, net per month</string>
+    <string name="offer_b_net">Offer B, net per month</string>
+    <string name="compare_difference">%1$s leaves you %2$s more per month (%3$s per year)</string>
+    <string name="compare_kept">For every €100 of gross difference you keep €%1$d.</string>
+
+    <string name="unemployment_base">Average monthly contribution base</string>
+    <string name="unemployment_base_help">It is the average of the last 6 months. If you do not know it, use your gross annual salary divided by 12.</string>
+    <string name="unemployment_days">Days contributed in the last 6 years</string>
+    <string name="days_suffix">days</string>
+    <string name="unemployment_no_right">With fewer than 360 days contributed there is no contributory benefit. You may be entitled to an allowance.</string>
+    <string name="unemployment_duration">You would receive %1$d days (about %2$d months)</string>
+    <string name="unemployment_first_180">First 6 months (70 %)</string>
+    <string name="unemployment_from_181">Months 7 to 12 (60 %)</string>
+    <string name="unemployment_from_361">From month 13 (50 %)</string>
+    <string name="unemployment_note">Gross monthly amounts with the 2026 limits. Social Security contributions and, if applicable, income tax are deducted when paid.</string>
+
+    <string name="start_date">Start date</string>
+    <string name="end_date">End date</string>
+    <string name="dismissal_unfair">Unfair dismissal (33 days per year)</string>
+    <string name="dismissal_objective">Objective dismissal (20 days per year)</string>
+    <string name="dismissal_temporary">End of temporary contract (12 days per year)</string>
+    <string name="dismissal_none">Voluntary resignation (no compensation)</string>
+    <string name="vacation_days">Unused holiday days</string>
+    <string name="years_worked">Years worked</string>
+    <string name="compensation">Compensation</string>
+    <string name="vacation_pay">Pending holidays</string>
+    <string name="severance_total">Approximate total</string>
+    <string name="severance_note">Gross estimate for contracts signed since 12 February 2012. The actual settlement also includes the days worked in the month and the accrued part of the extra payments.</string>
+
+    <string name="premium_feature_compare">Job offer comparison</string>
+    <string name="premium_settings_text">Remove the ads and unlock the offer comparison.</string>
+    <string name="remove_ads">Remove ads</string>
+    <string name="privacy_options">Ad privacy options</string>
+    <string name="about_title">About</string>
+    <string name="about_text">Indicative payslip, unemployment and compensation calculators under Spanish rules. They do not replace professional advice.</string>
+    <string name="version">Version %1$s</string>
+</resources>

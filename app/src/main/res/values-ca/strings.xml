@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sueldo Neto</string>
+    <string name="settings">Configuració</string>
+    <string name="tab_salary">Nòmina</string>
+    <string name="tab_compare">Comparar ofertes</string>
+    <string name="tab_unemployment">Atur</string>
+    <string name="tab_severance">Acomiadament</string>
+
+    <string name="gross_annual">Sou brut anual</string>
+    <string name="payments_14">14 pagues</string>
+    <string name="payments_12">12 pagues</string>
+    <string name="contract_permanent">Indefinit</string>
+    <string name="contract_temporary">Temporal</string>
+    <string name="children">Fills a càrrec</string>
+    <string name="children_under_3">D\'aquests, menors de 3 anys</string>
+    <string name="net_monthly">Net al mes</string>
+    <string name="net_extra_pay">Cada paga extra: %1$s</string>
+    <string name="net_annual">Net a l\'any</string>
+    <string name="social_security">Seguretat Social</string>
+    <string name="withholding">IRPF (%1$s)</string>
+    <string name="salary_note">Càlcul orientatiu amb les retencions del %1$d per a un contribuent sense cònjuge a càrrec, sense discapacitat i amb els fills compartits amb l\'altre progenitor. No serveix per al País Basc ni Navarra. La teva nòmina pot variar segons el teu conveni i la teva situació personal.</string>
+
+    <string name="compare_title">Compara dues ofertes</string>
+    <string name="compare_locked">Posa dos sous bruts i mira quin et deixa més diners cada mes i quanta part de l\'augment arriba a la teva butxaca.</string>
+    <string name="offer_a">Oferta A (brut anual)</string>
+    <string name="offer_b">Oferta B (brut anual)</string>
+    <string name="offer_a_net">Oferta A, net al mes</string>
+    <string name="offer_b_net">Oferta B, net al mes</string>
+    <string name="compare_difference">%1$s et deixa %2$s més al mes (%3$s a l\'any)</string>
+    <string name="compare_kept">De cada 100 € bruts de diferència et queden %1$d €.</string>
+
+    <string name="unemployment_base">Base de cotització mitjana mensual</string>
+    <string name="unemployment_base_help">És la mitjana dels últims 6 mesos. Si no la saps, fes servir el teu brut anual dividit entre 12.</string>
+    <string name="unemployment_days">Dies cotitzats en els últims 6 anys</string>
+    <string name="days_suffix">dies</string>
+    <string name="unemployment_no_right">Amb menys de 360 dies cotitzats no hi ha prestació contributiva. Potser tens dret a un subsidi.</string>
+    <string name="unemployment_duration">Cobraries %1$d dies (uns %2$d mesos)</string>
+    <string name="unemployment_first_180">Primers 6 mesos (70 %)</string>
+    <string name="unemployment_from_181">Del mes 7 al 12 (60 %)</string>
+    <string name="unemployment_from_361">A partir del mes 13 (50 %)</string>
+    <string name="unemployment_note">Imports bruts al mes, amb els límits del 2026. En cobrar es descompta la cotització a la Seguretat Social i, si escau, l\'IRPF.</string>
+
+    <string name="start_date">Data d\'alta</string>
+    <string name="end_date">Data de baixa</string>
+    <string name="dismissal_unfair">Acomiadament improcedent (33 dies per any)</string>
+    <string name="dismissal_objective">Acomiadament objectiu (20 dies per any)</string>
+    <string name="dismissal_temporary">Fi de contracte temporal (12 dies per any)</string>
+    <string name="dismissal_none">Baixa voluntària (sense indemnització)</string>
+    <string name="vacation_days">Dies de vacances no gaudits</string>
+    <string name="years_worked">Anys treballats</string>
+    <string name="compensation">Indemnització</string>
+    <string name="vacation_pay">Vacances pendents</string>
+    <string name="severance_total">Total aproximat</string>
+    <string name="severance_note">Estimació bruta per a contractes signats des del 12 de febrer de 2012. El finiquito real inclou també els dies treballats del mes i la part de les pagues extres.</string>
+
+    <string name="premium_feature_compare">Comparador d\'ofertes de feina</string>
+    <string name="premium_settings_text">Treu els anuncis i desbloqueja el comparador d\'ofertes.</string>
+    <string name="remove_ads">Treure els anuncis</string>
+    <string name="privacy_options">Opcions de privadesa dels anuncis</string>
+    <string name="about_title">Quant a</string>
+    <string name="about_text">Calculadores orientatives de nòmina, atur i indemnització segons la normativa espanyola. No substitueixen l\'assessorament d\'un professional.</string>
+    <string name="version">Versió %1$s</string>
+</resources>
