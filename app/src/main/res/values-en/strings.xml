@@ -60,5 +60,11 @@
     <string name="privacy_options">Ad privacy options</string>
     <string name="about_title">About</string>
     <string name="about_text">Indicative payslip, unemployment and compensation calculators under Spanish rules. They do not replace professional advice.</string>
+    <string name="source_title">Official sources</string>
+    <string name="source_1">Income tax (IRPF) – Spanish Tax Agency</string>
+    <string name="source_2">Contributions – Social Security</string>
+    <string name="source_3">Unemployment benefit – SEPE</string>
+    <string name="source_4">Workers\' Statute (BOE)</string>
+    <string name="about_disclaimer">Sueldo Neto is an independent app and is not affiliated with the Spanish Tax Agency, Social Security, SEPE or any government body.</string>
     <string name="version">Version %1$s</string>
 </resources>

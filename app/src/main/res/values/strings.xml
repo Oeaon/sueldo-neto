@@ -60,5 +60,11 @@
     <string name="privacy_options">Opciones de privacidad de anuncios</string>
     <string name="about_title">Acerca de</string>
     <string name="about_text">Calculadoras orientativas de nómina, paro e indemnización según la normativa española. No sustituyen el asesoramiento de un profesional.</string>
+    <string name="source_title">Fuentes oficiales</string>
+    <string name="source_1">IRPF – Agencia Tributaria</string>
+    <string name="source_2">Cotización – Seguridad Social</string>
+    <string name="source_3">Prestación por desempleo – SEPE</string>
+    <string name="source_4">Estatuto de los Trabajadores (BOE)</string>
+    <string name="about_disclaimer">Sueldo Neto es una app independiente y no está vinculada a la Agencia Tributaria, la Seguridad Social, el SEPE ni a ningún organismo público.</string>
     <string name="version">Versión %1$s</string>
 </resources>

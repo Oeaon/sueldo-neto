@@ -60,5 +60,11 @@
     <string name="privacy_options">Opcions de privadesa dels anuncis</string>
     <string name="about_title">Quant a</string>
     <string name="about_text">Calculadores orientatives de nòmina, atur i indemnització segons la normativa espanyola. No substitueixen l\'assessorament d\'un professional.</string>
+    <string name="source_title">Fonts oficials</string>
+    <string name="source_1">IRPF – Agència Tributària</string>
+    <string name="source_2">Cotització – Seguretat Social</string>
+    <string name="source_3">Prestació per desocupació – SEPE</string>
+    <string name="source_4">Estatut dels Treballadors (BOE)</string>
+    <string name="about_disclaimer">Sueldo Neto és una app independent i no està vinculada a l\'Agència Tributària, la Seguretat Social, el SEPE ni a cap organisme públic.</string>
     <string name="version">Versió %1$s</string>
 </resources>

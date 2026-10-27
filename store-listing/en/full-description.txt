@@ -25,3 +25,9 @@ Everything is calculated on your phone and works offline. There are no accounts 
 
 DISCLAIMER
 Results are indicative. They use the general withholding procedure for a taxpayer with no dependent spouse, no disability and children shared with the other parent. Not valid for the Basque Country or Navarre. Your actual payslip may differ depending on your collective agreement and personal situation. The app does not replace professional advice and is not affiliated with the Spanish Tax Agency, Social Security or the public employment service (SEPE).
+
+OFFICIAL SOURCES
+• Income tax (IRPF) – Spanish Tax Agency: https://sede.agenciatributaria.gob.es/Sede/irpf.html
+• Contributions – Social Security: https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/CotizacionRecaudacionTrabajadores/36537
+• Unemployment benefit – SEPE: https://www.sepe.es/HomeSepe/Personas/distributiva-prestaciones/quiero-cobrar-el-paro.html
+• Workers' Statute (BOE): https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430

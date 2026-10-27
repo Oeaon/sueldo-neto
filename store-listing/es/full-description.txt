@@ -25,3 +25,9 @@ Todo se calcula en tu móvil y funciona sin conexión. No hay cuentas ni se guar
 
 AVISO
 Los resultados son orientativos. Se calculan con el procedimiento general de retenciones para un contribuyente sin cónyuge a cargo, sin discapacidad y con los hijos compartidos con el otro progenitor. No vale para el País Vasco ni Navarra. Tu nómina real puede variar según tu convenio y tu situación personal. La app no sustituye el asesoramiento de un profesional y no está vinculada a la Agencia Tributaria, la Seguridad Social ni el SEPE.
+
+FUENTES OFICIALES
+• IRPF – Agencia Tributaria: https://sede.agenciatributaria.gob.es/Sede/irpf.html
+• Cotización – Seguridad Social: https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/CotizacionRecaudacionTrabajadores/36537
+• Prestación por desempleo – SEPE: https://www.sepe.es/HomeSepe/Personas/distributiva-prestaciones/quiero-cobrar-el-paro.html
+• Estatuto de los Trabajadores (BOE): https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430
