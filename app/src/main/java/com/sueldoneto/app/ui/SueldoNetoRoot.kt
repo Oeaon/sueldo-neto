@@ -87,8 +87,6 @@ fun SueldoNetoRoot(monetization: Monetization, monetizationState: MonetizationSt
                                 onClick = {
                                     if (option != tab) {
                                         tab = option
-                                        // Cambiar de calculadora es una pausa natural (con límite de frecuencia).
-                                        activity?.let { monetization.maybeShowInterstitial(it) }
                                     }
                                 },
                                 text = { Text(stringResource(option.label)) },
